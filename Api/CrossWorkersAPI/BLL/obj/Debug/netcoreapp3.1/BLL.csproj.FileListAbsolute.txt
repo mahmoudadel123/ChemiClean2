@@ -1,0 +1,12 @@
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\CrossWorkers\Api\CrossWorkersAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache

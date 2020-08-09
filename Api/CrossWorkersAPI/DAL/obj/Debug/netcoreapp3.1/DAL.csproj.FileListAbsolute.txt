@@ -1,0 +1,12 @@
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\CrossWorkers\Api\CrossWorkersAPI\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
